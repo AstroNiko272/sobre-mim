@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(black, rgb(0, 15, 31));
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+nav a {
+    color: rgb(42, 225, 5);
+    text-decoration: none;
+    font-family: monospace;
+}
+h2 {
+    color: rgb(0, 136, 255);
+    font-family: monospace;
+}
+p {
+    color: white;
+    font-family: monospace;
+}

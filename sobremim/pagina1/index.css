@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(black, rgb(0, 17, 38));
+    font-family: monospace;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+nav a {
+    color: rgb(42, 225, 5);
+    text-decoration: none;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 5px solid rgb(22, 187, 0);
+}
+.meio {
+    text-align: center;
+}
+h2 {
+    color: rgb(0, 186, 0);
+    font-family: monospace;
+}
+h3 {
+    color: white;
+    font-family: monospace;
+}
+p {
+    color: white;
+}
+button {
+    position: absolute;
+    left: 520px;
+    border: none;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 184, 0);
+    border-radius: 20px;
+    width: 250px;
+    height: 20px;
+    cursor: pointer;
+}
